@@ -49,16 +49,16 @@
 
 ## 📊 GitHub Stats  
 
-![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=USERNAME&theme=tokyonight&hide_border=false)  
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=USERNAME&layout=compact&theme=tokyonight)  
-![Athallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=USERNAME&show_icons=true&theme=tokyonight)  
+![GitHub Streak](https://github-readme-streak-stats.herokuapp.com/?user=Athallah1234&theme=tokyonight&hide_border=false)  
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Athallah1234&layout=compact&theme=tokyonight)  
+![Athallah's GitHub stats](https://github-readme-stats.vercel.app/api?username=Athallah1234&show_icons=true&theme=tokyonight)  
 
 ---
 
 ## 📂 Featured Projects  
-- 🔐 [Super Secure Folder Locker](https://github.com/USERNAME/folder-locker) – Batch script with password protection & auto-lock  
-- 🌍 [Travel Booking Website](https://github.com/USERNAME/travel-booking) – Laravel-based full-featured booking system  
-- 🎮 [Gaming Community Platform](https://github.com/USERNAME/gaming-community) – Forum & community for gamers  
+- 🔐 [Super Secure Folder Locker](https://github.com/Athallah1234/folder-locker) – Batch script with password protection & auto-lock  
+- 🌍 [Travel Booking Website](https://github.com/Athallah1234/travel-booking) – Laravel-based full-featured booking system  
+- 🎮 [Gaming Community Platform](https://github.com/Athallah1234/gaming-community) – Forum & community for gamers  
 
 ---
 
@@ -70,4 +70,4 @@
 
 ---
 
-⭐️ From [USERNAME](https://github.com/USERNAME)
+⭐️ From [Athallah1234](https://github.com/Athallah1234)
