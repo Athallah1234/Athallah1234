@@ -1,3 +1,9 @@
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com?size=25&duration=4000&color=0ef&center=true&vCenter=true&lines=Hi+%F0%9F%91%8B,+I'm+Athallah!;Software+Developer;Full-Stack+Web+Developer;Tech+Enthusiast;Open+Source+Contributor;Lifelong+Learner" alt="Typing Animation">
+</p>
+
+---
+
 # 👋 Hi, I'm Athallah Rajendra Putra Juniarto  
 
 💻 **Software Developer | Tech Enthusiast | Lifelong Learner**  
