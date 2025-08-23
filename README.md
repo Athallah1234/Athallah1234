@@ -10,7 +10,6 @@
 - 👯 I’m looking to collaborate on **Open Source Projects & Startups**  
 - 🤔 I’m looking for help with **Scaling Web Apps & Cloud Deployments**  
 - 💬 Ask me about **Web Development, Cybersecurity, Linux, and Automation**  
-- 📫 How to reach me: **your.email@example.com**  
 - ⚡ Fun fact: **I love coding late at night with coffee ☕**  
 
 ---
@@ -63,9 +62,8 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://linkedin.com/in/USERNAME)  
-[![Twitter](https://img.shields.io/badge/Twitter-1DA1F2?style=flat&logo=twitter&logoColor=white)](https://twitter.com/USERNAME)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/USERNAME)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athallah-rajendra-putra-juniarto-9789ba30a)  
+[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arpj1234)  
 [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)  
 
 ---
