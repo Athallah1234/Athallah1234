@@ -20,7 +20,6 @@
 - 🎯 Interests: **Artificial Intelligence, Cloud Computing, Blockchain, and Cybersecurity**  
 - 🌍 Passionate about **building impactful technology that solves real-world problems**  
 - 📝 I regularly share my thoughts & projects on **GitHub and tech communities**  
-- ⚡ Fun fact: **I love coding late at night with coffee ☕**  
 
 ---
 
