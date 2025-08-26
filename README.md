@@ -57,9 +57,7 @@
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athallah-rajendra-putra-juniarto-9789ba30a)  
-[![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arpj1234)  
-[![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athallah-rajendra-putra-juniarto-9789ba30a)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arpj1234)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)  
 
 ---
 
@@ -67,15 +65,13 @@
 
 If you like my work, consider supporting me to keep it going 🚀  
 
-[![Saweria](https://img.shields.io/badge/Saweria-FF8200?style=for-the-badge&logo=github&logoColor=white)](https://saweria.co/ATADEV)  
-[![Trakteer](https://img.shields.io/badge/Trakteer.id-FF2D20?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://trakteer.id/athadev)  
+[![Saweria](https://img.shields.io/badge/Saweria-FF8200?style=for-the-badge&logo=github&logoColor=white)](https://saweria.co/ATADEV)  [![Trakteer](https://img.shields.io/badge/Trakteer.id-FF2D20?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://trakteer.id/athadev)  
 
 ---
 
 ## 📈 Profile Views & Visitors  
 
-![Profile views](https://komarev.com/ghpvc/?username=Athallah1234&label=Profile%20views&color=0e75b6&style=flat)  
-![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Athallah1234.Athallah1234)  
+![Profile views](https://komarev.com/ghpvc/?username=Athallah1234&label=Profile%20views&color=0e75b6&style=flat)  ![Visitors](https://visitor-badge.laobi.icu/badge?page_id=Athallah1234.Athallah1234)  
 
 ---
 
