@@ -49,13 +49,6 @@
 
 ---
 
-## 📂 Featured Projects  
-- 🔐 [Super Secure Folder Locker](https://github.com/Athallah1234/folder-locker) – Batch script with password protection & auto-lock  
-- 🌍 [Travel Booking Website](https://github.com/Athallah1234/travel-booking) – Laravel-based full-featured booking system  
-- 🎮 [Gaming Community Platform](https://github.com/Athallah1234/gaming-community) – Forum & community for gamers  
-
----
-
 ## 🌐 Connect With Me  
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athallah-rajendra-putra-juniarto-9789ba30a)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arpj1234)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)  
 
