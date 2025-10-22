@@ -6,6 +6,8 @@
 
 # 👋 Hi, I'm Athallah Rajendra Putra Juniarto  
 
+I am Study At Universitas Islam Negeri Maulana Malik Ibrahim Malang (Maulana Malik Ibrahim State Islamic University of Malang)
+
 💻 **Software Developer | Tech Enthusiast | Lifelong Learner**  
 
 ---
