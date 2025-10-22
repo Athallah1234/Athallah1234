@@ -8,7 +8,7 @@
 
 I am Study At Universitas Islam Negeri Maulana Malik Ibrahim Malang (Maulana Malik Ibrahim State Islamic University of Malang)
 
-💻 **Software Developer | Tech Enthusiast | Lifelong Learner**  
+💻 **Software Developer | Tech Enthusiast | Lifelong Learner | Cyber security | Ethical Hacking**  
 
 ---
 
