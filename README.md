@@ -60,7 +60,7 @@ I am Study At Universitas Islam Negeri Maulana Malik Ibrahim Malang (Maulana Mal
 
 If you like my work, consider supporting me to keep it going 🚀  
 
-[![Saweria](https://img.shields.io/badge/Saweria-FF8200?style=for-the-badge&logo=github&logoColor=white)](https://saweria.co/ATADEV)  [![Trakteer](https://img.shields.io/badge/Trakteer.id-FF2D20?style=for-the-badge&logo=buymeacoffee&logoColor=white)](https://trakteer.id/athadev)  [![PayPal](https://img.shields.io/badge/PayPal-00457C?style=for-the-badge&logo=paypal&logoColor=white)](https://paypal.me/athadev)  
+[![Saweria](https://img.shields.io/badge/Saweria-FF8200?style=for-the-badge&logo=github&logoColor=white)](https://saweria.co/ATADEV)
 
 ---
 
