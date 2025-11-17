@@ -21,7 +21,7 @@ I am Study At Universitas Islam Negeri Maulana Malik Ibrahim Malang (Maulana Mal
 - 📌 Goal: **To become a highly skilled Software Architect & Tech Entrepreneur**  
 - 🎯 Interests: **Artificial Intelligence, Cloud Computing, Blockchain, and Cybersecurity**  
 - 🌍 Passionate about **building impactful technology that solves real-world problems**  
-- 📝 I regularly share my thoughts & projects on **GitHub and tech communities**  
+- 📝 I regularly share my thoughts & projects on **GitHub**  
 
 ---
 
