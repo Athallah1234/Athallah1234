@@ -52,7 +52,7 @@ I am Study At Universitas Islam Negeri Maulana Malik Ibrahim Malang (Maulana Mal
 ---
 
 ## 🌐 Connect With Me  
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athallah-rajendra-putra-juniarto-9789ba30a)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arpj1234)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://yourportfolio.com)  
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/athallah-rajendra-putra-juniarto-9789ba30a)  [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=flat&logo=instagram&logoColor=white)](https://instagram.com/arpj1234)  [![Portfolio](https://img.shields.io/badge/Portfolio-000000?style=flat&logo=react&logoColor=white)](https://portofolios-nine-gamma.vercel.app/)  
 
 ---
 
